@@ -1,4 +1,4 @@
-describe('all todo', function () {
+describe('all todo item', function () {
     let page;
 
     before(async function () {
